@@ -1,7 +1,7 @@
 # Neural-Network-Project
 ECS659P/ECS7026P Neural Networks and Deep Learning - Project Completed for this module is presented here. 
 
-# Neural Networks and Deep Learning (ECS659P/ECS7026P)
+# Coursework
 In this assignment, you will implement a neural network that classifies images. Please read this entire document before you start working on the assignment.
 
 ## 1. Dataset
