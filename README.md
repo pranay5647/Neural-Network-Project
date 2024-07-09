@@ -18,7 +18,7 @@ Your next task is to implement the neural network architecture described in this
 ### 2.1 Intermediate block
 An intermediate block receives an image x and outputs an image x′. Each block has L independent convolutional layers. Each convolutional layer Cl in a block receives the input image x and outputs an image Cl(x). Each of these images is combined into the single output image x′, which is given by
 
-\[ x′ = a1C1(x) + a2C2(x) + . . .+ aLCL(x) \]
+x′ = a1C1(x) + a2C2(x) + . . .+ aLCL(x) 
 
 where a = [a1, a2, . . . , aL]^T is a vector that is also computed by the block. Note that each convolutional layer in a block receives the same input image x (and not the output of another convolutional layer within the block).
 
